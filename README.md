@@ -54,7 +54,7 @@ Assets/
 
 ---
 
-## 🚀 Lancement du projet
+##  Lancement du projet
 
 1. Ouvrir le projet avec Unity Hub
 2. Charger la scène :
@@ -64,7 +64,7 @@ Assets/Scenes/SampleScene.unity
 
 ---
 
-## 📦 Données générées
+##  Données générées
 
 Les données sont sauvegardées sous forme de JSON et contiennent :
 
@@ -75,22 +75,13 @@ Les données sont sauvegardées sous forme de JSON et contiennent :
 
 ---
 
-## 👨‍💻 Auteurs
+##  Auteurs
 
 - Fati Ab
 - Farmati Aya
 
 ---
 
-##  Objectif pédagogique
-
-Ce projet simule un système de collecte de données utilisateur utilisé dans :
-- Intelligence Artificielle
-- Analyse comportementale
-- Big Data
-- Jeux vidéo et simulation
-
----
 
 
 - Ajouter une interface UI (HUD)
