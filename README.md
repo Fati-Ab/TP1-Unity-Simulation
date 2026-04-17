@@ -1,54 +1,37 @@
-# 🎮 TP1 - Simulation interactive et collecte de données (Unity)
+#  TP1 - Simulation interactive et collecte de données (Unity)
 
-## 📌 Description du projet
+##  Description 
 
 Ce projet est une simulation interactive développée avec **Unity 6** et **C#**.  
 L’objectif est de créer un environnement 3D où l’utilisateur peut se déplacer, interagir avec des objets et générer des données qui seront enregistrées pour analyse.
 
-Ce TP introduit les concepts de base de :
-- Développement de jeux 3D avec Unity
-- Interaction utilisateur (clics, mouvement)
-- Raycasting
-- Collecte et stockage de données
-- Introduction à l’IA et au Big Data
 
----
 
-## 🎯 Objectifs
+##  Fonctionnalités
 
-- Créer une scène 3D interactive
-- Permettre le déplacement du joueur
-- Permettre l’interaction avec des objets
-- Enregistrer les actions utilisateur
-- Sauvegarder les données en format JSON
-
----
-
-## 🧱 Fonctionnalités
-
-### 👤 Joueur
+###  Joueur
 - Déplacement avec clavier (WASD)
 - Contrôle de la caméra avec la souris
 - Mode FPS (première personne)
 
-### 🟦 Objets interactifs
+###  Objets interactifs
 - Clic sur objets (Cube / Sphere)
 - Changement de couleur aléatoire
 - Détection via Raycast
 
-### 📊 Collecte de données
+###  Collecte de données
 - Nombre total de clics
 - Temps passé dans la scène
 - Position du joueur enregistrée périodiquement
 - Liste des objets cliqués
 
-### 💾 Sauvegarde
+###  Sauvegarde
 - Export des données en fichier JSON
 - Fichier généré à la fermeture de l’application
 
 ---
 
-## 🧠 Technologies utilisées
+##  Technologies utilisées
 
 - Unity 6
 - C#
@@ -58,7 +41,7 @@ Ce TP introduit les concepts de base de :
 
 ---
 
-## 📁 Structure du projet
+##  Structure du projet
 
 Assets/
 ├── ClickableObject.cs
@@ -95,11 +78,11 @@ Les données sont sauvegardées sous forme de JSON et contiennent :
 ## 👨‍💻 Auteurs
 
 - Fati Ab
-- (Nom de ta collègue)
+- Farmati Aya
 
 ---
 
-## 📌 Objectif pédagogique
+##  Objectif pédagogique
 
 Ce projet simule un système de collecte de données utilisateur utilisé dans :
 - Intelligence Artificielle
@@ -109,10 +92,7 @@ Ce projet simule un système de collecte de données utilisateur utilisé dans :
 
 ---
 
-## ✅ Améliorations possibles
 
-- Ajouter une IA (ennemi ou agent intelligent)
-- Ajouter un système de score
 - Ajouter une interface UI (HUD)
 - Export des données vers une base de données
 
