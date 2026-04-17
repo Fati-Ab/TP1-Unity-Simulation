@@ -60,7 +60,7 @@ Assets/
 2. Charger la scène :
 
 Assets/Scenes/SampleScene.unity
-3. Cliquer sur ▶ Play
+3. Cliquer sur  Play
 
 ---
 
